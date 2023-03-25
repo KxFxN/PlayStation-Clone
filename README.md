@@ -2,4 +2,4 @@
  
 Code this not support responsive 
 
-Code this support 1309*617 px
+Code this support responsive 1309*617 px
