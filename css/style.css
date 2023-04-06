@@ -652,6 +652,10 @@ figcaption{
     height: 115px;
 }
 
+.sliders_game a:hover{
+    opacity: .5;
+}
+
 .box_game img{
     width: 100%;
     height: 100%;
